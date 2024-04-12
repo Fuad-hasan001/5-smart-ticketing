@@ -9,3 +9,18 @@
 .text-Inter{
     font-family: "Inter", sans-serif;
 }
+
+header{
+    border: 1px solid red;
+    margin-bottom: 2%;
+}
+
+main{
+    border: 1px solid green;
+    margin-bottom: 2%;
+}
+
+footer{
+    border: 1px solid purple;
+    margin-bottom: 2%;
+}
